@@ -74,10 +74,3 @@
     python2 web.py
     在浏览器中打开： http://127.0.0.1:5000/ 
 >
-### 最后
-
-
-欢迎加入微信群、QQ群一起讨论  
-![](./wechat/1321922313.jpg)
-
-![](./wechat/webwxgetmsgimg.png)
